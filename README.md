@@ -1,3 +1,14 @@
+# Overview
+
+Andrew Mead's Courses on React.JS, Meteor and many more.
+Each project folder contains App-s developed with the help of the course material.
+
+## Courses:
+### Udemy - Full-Stack Web Apps with Meteor and React
+https://www.udemy.com/meteor-react/
+
+***
+
 # React - ScoreKeeper Application
 
 Reackt.JS + Meteor Application.  
